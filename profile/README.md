@@ -10,4 +10,4 @@ To do so, Airstack is helping standardize blockchain data, aggregating it, mappi
 
 [Here](https://app.airstack.xyz/) is a live example of how the Airstack entities are consumed.
 
-Developers are encouraged to explore the [Airstack Subgraphs](https://github.com/Airstack-xyz/airstack-subgraph) to learn more about our schemas and how to publish subgraphs to Airstack. 
+Developers are encouraged to explore the [Airstack Subgraphs](https://github.com/Airstack-xyz/airstack-subgraph) to learn more about our schemas and how to publish subgraphs to Airstack. Our work on Substreams are also here in this Github.
