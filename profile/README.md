@@ -6,7 +6,7 @@
 
 Airstack APIs make it easy to query and build with web3 data, helping power a new generation of interoperable data-aware web3 applications and protocols. 
 
-Before Airstack web3 data was public but hard to query and integrate. Developers had to run a lot infrastracture that was non-core to their applications in order to get and integrate relevant on-chain data. 
+Before Airstack web3 data was public but hard to query and integrate. Developers had to run a lot infrastracture that was non-core to their applications and do many off-line data transformations in order to get and make use of relevant on-chain data. 
 
 Airstack enables developers to easily query across projects and chains and to get plug-and-play APIs, webhooks, and SDKs to make use of the data in their apps. 
 
