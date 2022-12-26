@@ -10,9 +10,9 @@ Before Airstack web3 data was public but hard to query and integrate. Developers
 
 Airstack enables developers to easily query across projects and chains and to get plug-and-play APIs, webhooks, and SDKs to make use of the data in their apps. 
 
-Some key features we're working on at Airstack include:
+Some key features we're currently working on at Airstack include:
 - GraphQL: Get the exact data you need in easy to integrate formats
-- SDKs and webhooks for streaming updates
+- SDKs and webhooks: for streaming updates
 - No code query builder: Not comfortable with GraphQL? No worries. Our no-code query builder helps make web3 data accessible to everyone
 - Complex queries made easy: With Airstack you can query across multiple projects, wallets, and blockchains
 - Collaboration built in: Browse, remix, or fork from a public marketplace of queries and APIs
