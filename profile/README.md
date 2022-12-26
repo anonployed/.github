@@ -1,13 +1,22 @@
 # Airstack
 
-**Enabling data aware web3 apps**
+**The easiest way to query and build with web3**
 
 ## Introduction
 
-Airstack is developing Protocols and APIs for browsing, discovering, and consuming on-chain data across projects and across blockchains. Our motivation for creating Airstack is to enable common ways to organize blockchain data and make it universally consumable, ushering in a new generation of data aware apps and services.
+Airstack APIs make it easy to query and build with web3 data, helping power a new generation of interoperable data-aware web3 applications and protocols. 
 
-To do so, Airstack is helping standardize blockchain data, aggregating it, mapping relationships, and providing protocols and APIs to access it.
+Before Airstack web3 data was public but hard to query and integrate. Developers had to run a lot infrastracture that was non-core to their applications in order to get and integrate relevant on-chain data. 
 
-[Here](https://app.airstack.xyz/) is a live example of how the Airstack entities are consumed.
+Airstack enables developers to easily query across projects and chains and to get plug-and-play APIs, webhooks, and SDKs to make use of the data in their apps. 
 
-Developers are encouraged to explore the [Airstack Subgraphs](https://github.com/Airstack-xyz/airstack-subgraph) to learn more about our schemas and how to publish subgraphs to Airstack. Our work on Substreams are also here in this Github.
+Some key features we're working on at Airstack include:
+- GraphQL: Get the exact data you need in easy to integrate formats
+- SDKs and webhooks for streaming updates
+- No code query builder: Not comfortable with GraphQL? No worries. Our no-code query builder helps make web3 data accessible to everyone
+- Complex queries made easy: With Airstack you can query across multiple projects, wallets, and blockchains
+- Collaboration built in: Browse, remix, or fork from a public marketplace of queries and APIs
+
+We utilize Substreams and Subgraphs for supplying on-chain data into Airstack. We augment on-chain data with off-chain metadata from IPFS and marketplaces (for example NFT images). Wherever possible we default to on-chain data. 
+
+Airstack is launching in Q1 2023 for EVM based blockchains with an initial focus on digital collectibles, NFTs, games, social, music, and publishing. 
