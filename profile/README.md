@@ -13,3 +13,5 @@ Get started: https://app.airstack.xyz
 Features overview: https://airstack.xyz
 
 Developer docs: https://docs.airstack.xyz
+
+Airstack utilizes Substreams and Subgraphs for on-chain data. Contribute data to Airstack by writing Subgraphs to the Airstack schemas https://github.com/Airstack-xyz/Subgraphs
