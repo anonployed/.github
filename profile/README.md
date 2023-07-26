@@ -20,14 +20,23 @@ With Airstack you can literally integrate everything! Data APIs: ERC6551, ERC721
 👩‍💻 Projects building with Airstack include XMTP, Lens, Farcaster, ERC-6551, CRM, marketing engines, ad platforms, portfolio balancers, ZK attestations, Farcaster, decentralized social, messaging apps, wallets, token-gated membership solutions, data visualization, and more. What will you build?
 
 QUICK LINKS:
+
 🔥 APIs app.airstack.xyz -- get your free API key and try our 🤖 AI engine
+
 🌏 Explorer explorer.airstack.xyz
+
 📑 Docs docs.airstack.xyz -- docs, tutorials, guides
+
 👨‍💻 SDKs https://app.airstack.xyz/sdks
+
 @  XMTP http://link.airstack.xyz/xmtp
+
 🪆 ERC6551 http://link.airstack.xyz/6551
+
 🌱 Lens http://link.airstack.xyz/lens
+
 🆔 Farcaster, Lens, ENS, POAP Identy resolvers http://link.airstack.xyz/identity 
+
 📞 Recommendation engines http://link.airstack.xyz/recommend
 
 Airstack builds with open source technologies, hosted entirely in our internal Airstack infrastructure which is optimized for performance, speed, and uptime. We're hugely thankful to the teams at StreamingFast for Substreams and The Graph for Subgraphs. 
