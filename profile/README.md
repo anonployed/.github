@@ -27,7 +27,7 @@ QUICK LINKS:
 
 📕 Airstack Blog https://blog.airstack.xyz
 
-📑 Docs https:/docs.airstack.xyz -- docs, tutorials, guides
+📑 Docs https://docs.airstack.xyz -- docs, tutorials, guides
 
 👨‍💻 SDKs https://app.airstack.xyz/sdks
 
