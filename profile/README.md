@@ -22,20 +22,35 @@ With Airstack you can literally integrate everything! Data APIs: ERC6551, ERC721
 QUICK LINKS:
 
 🔥 APIs https://app.airstack.xyz - get your API key and try our 🤖 AI engine
+
 🌏 Explorer https://explorer.airstack.xyz 
+
 📕 Airstack Blog https://blog.airstack.xyz
+
 📑 Docs docs.airstack.xyz -- docs, tutorials, guides
+
 👨‍💻 SDKs https://app.airstack.xyz/sdks
+
 🔗 Onchain Graph https://link.airstack.xyz/graph
-🥗 Combinations (X & Y & Z) https://link.airstack.xyz/combinations  
+
+🥗 Combinations (X & Y & Z) https://link.airstack.xyz/combinations
+
 🦚 NFTs - holders, images, balances https://link.airstack.xyz/nft
+
 @   XMTP http://link.airstack.xyz/xmtp
+
 🪆 ERC6551 http://link.airstack.xyz/6551
+
 🌱 Lens http://link.airstack.xyz/lens
+
 💜 Farcaster https://link.airstack.xyz/farcaster
+
 🎉 Social Follows https://link.airstack.xyz/social
-🖼 Profile Image https://link.airstack.xyz/images
+
+🖼 Profile Images https://link.airstack.xyz/images
+
 📞 Recommendation engines http://link.airstack.xyz/recommend
+
 🛑 Spam prevention: https://link.airstack.xyz/stop-spam
 
 Airstack builds with open source technologies, hosted entirely in our internal Airstack infrastructure which is optimized for performance, speed, and uptime. We're hugely thankful to the teams at StreamingFast for Substreams and The Graph for Subgraphs. 
